@@ -2,11 +2,11 @@
 
 @font-face {
     font-family: "OpenSans-Regular";
-    src: url("../fonts/OpenSans-Regular.ttf");
+    src: url("OpenSans-Regular.ttf");
 }
 @font-face {
     font-family: "Raleway-Bold";
-    src: url("../fonts/Raleway-Bold.ttf");
+    src: url("Raleway-Bold.ttf");
 }
 
 :root {
